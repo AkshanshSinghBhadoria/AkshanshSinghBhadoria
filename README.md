@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on OpenSource Projects<br>👯 I’m looking to collaborate on Hackathon & OpenSource<br>🌱 I’m currently learning Full Stack Development
+🔭 I’m currently working on building Multi Agent Systems<br>👯 Exploring Agentic AI <br>
 
 
 ## 🌐 Socials:
